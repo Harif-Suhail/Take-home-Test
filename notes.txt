@@ -1,0 +1,3 @@
+> I have created as per my understanding those point which you given(Frontend Take-Home Test) hopefully am in the same way,
+> As per component section i give class name as dummy 'component-name' ans styled as child elements on it becouse  it won't effect any other place in the project
+ 
